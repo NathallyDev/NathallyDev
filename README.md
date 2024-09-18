@@ -1,7 +1,7 @@
 # Olá, eu sou a NathallyDev 🍒
 
-![NathallyDev](https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dracula&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dracula&hide_title=true&count_private=true&langs_count=10&line_height=22)
+![NathallyDev](https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dark&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dark&hide_title=true&count_private=true&langs_count=10&line_height=22)
 
 
 <p>
