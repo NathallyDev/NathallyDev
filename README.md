@@ -3,14 +3,15 @@
 ![NathallyDev](https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dracula&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dracula&hide_title=true&count_private=true&langs_count=10&line_height=22)
 
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+</p>
 
 #
 
