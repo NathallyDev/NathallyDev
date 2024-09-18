@@ -3,6 +3,7 @@
 ![NathallyDev](https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dracula&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dracula&hide_title=true&count_private=true&langs_count=10&line_height=22)
 
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
