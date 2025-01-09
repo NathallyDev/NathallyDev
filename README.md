@@ -1,8 +1,15 @@
 # Hi, I'm NathallyDev 🍒
 
-![NathallyDev](https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dark&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dark&hide_title=true&count_private=true&langs_count=10&line_height=22)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dark&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43" alt="NathallyDev Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dark&hide_title=true&count_private=true&langs_count=10&line_height=22" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -20,7 +27,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/nittryzinha)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathally.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/náthally-lima-arruda-901235217)
-
 
 #
 
