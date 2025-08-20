@@ -1,3 +1,4 @@
+"""
 # Hi, I'm NathallyDev 🍒
 
 <table>
@@ -6,7 +7,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=NathallyDev&show_icons=true&theme=dark&hide_title=true&hide=prs,issues&count_private=true&include_all_commits=true&line_height=43" alt="NathallyDev Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dark&hide_title=true&count_private=true&langs_count=10&line_height=22" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathallyDev&layout=compact&theme=dark&hide_title=true&count_private=true&langs_count=10&line_height=22&cache_seconds=3600" alt="Top Langs" />
     </td>
   </tr>
 </table>
@@ -35,3 +36,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathallyDev/NathallyDev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NathallyDev/NathallyDev/output/github-contribution-grid-snake.svg">
 </picture>
+"""
